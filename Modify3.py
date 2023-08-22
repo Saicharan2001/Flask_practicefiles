@@ -1,1 +1,1 @@
-"Change - 3 merge conflict"
+Hi this is a modified text
